@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Builds locais
+*.apk
+*.aab
+
+# Credenciais Android
+*.jks
+*.keystore
+android/app/*.jks
+android/app/*.keystore
+
+# Expo prebuild
+android/
+ios/
