@@ -2,11 +2,6 @@
 
 Aplicativo mobile desenvolvido em **React Native com Expo** para consumo da **PokeAPI**. O projeto apresenta uma Pokédex interativa com listagem de Pokémon, busca por nome ou número, filtros por geração, filtros por tipo, carregamento visual, tratamento de erro e organização de arquivos pensada para facilitar manutenção e evolução do código. Projeto inspirado no app: CTADex.
 
-## Link do repositório
-
-```txt
-https://github.com/miguelzack/mobile-class-senai
-```
 
 ---
 
